@@ -80,3 +80,13 @@ npx playwright show-report
 ├── package.json              # Node.js dependencies
 └── README.md                 # Project documentation
 ```
+
+
+## Screenshots
+<img width="1366" height="736" alt="output1" src="https://github.com/user-attachments/assets/c88b7bae-a5e1-45df-90a0-b04e1b70db3e" />
+
+
+<img width="1366" height="729" alt="output2" src="https://github.com/user-attachments/assets/e55e22ee-2b55-4d90-be73-d06c23d57795" />
+
+
+<img width="1366" height="730" alt="output3" src="https://github.com/user-attachments/assets/0909585e-2345-4deb-91d3-9878be0ff668" />
