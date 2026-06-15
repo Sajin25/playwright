@@ -90,3 +90,6 @@ npx playwright show-report
 
 
 <img width="1366" height="730" alt="output3" src="https://github.com/user-attachments/assets/0909585e-2345-4deb-91d3-9878be0ff668" />
+
+
+<img width="1366" height="482" alt="output4" src="https://github.com/user-attachments/assets/00a93c32-2146-4f87-a8ab-2f6ff9cd6936" />
